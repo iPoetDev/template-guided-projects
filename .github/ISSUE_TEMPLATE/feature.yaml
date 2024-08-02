@@ -18,11 +18,17 @@ body:
       label: Feature Topic
       description: Select the topic that best fits your feature request.
       options:
-        - Jupyter Markdown
-        - Jupyter Notebooks
+        - UI
+        - Backend
         - Python
-        - Artificial Intelligence
-        - Machine Learning
+        - Packaging
+        - Application/API
+        - Data
+        - Security
+        - Integrations
+        - Testing
+        - Enchance
+        - Misc
     validations:
       required: true
 
