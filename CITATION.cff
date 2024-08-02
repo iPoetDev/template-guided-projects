@@ -1,0 +1,17 @@
+title: ibm-skills-ai-colab-sessions
+authors:
+  - given-names: Charles
+    family-names: Fowler
+    email: ipoetdev-github-no-reply@outlook.com
+    affiliation: Developer Associate | AI Generalist
+cff-version: 1.2.0
+message: If you use this software, please cite it using the metadata from this file.
+type: software
+abstract: IBM Skills Build AI Fundamentals - Colab - Sessions
+keywords:
+  - ai
+  - colab-notebook
+  - juypter-notebook
+  - python3
+license: GPL-3.0
+repository-code: https://github.com/iPoetDev/ibm-skills-ai-colab-sessions
