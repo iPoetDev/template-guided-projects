@@ -1,4 +1,4 @@
-![Banner: Skills Network](./assets/img/IBM_SkillsNetwork.png)
+![Banner: Skills Network](./assets/img/IBM_SkillsNetwork_Guided.png)
 
 - **SOURCE**: [![]()](https://github.com/arora-r/chatapp-with-voice-and-openai-outline)
   - https://github.com/arora-r/chatapp-with-voice-and-openai-outline
@@ -6,11 +6,12 @@
 - **SOLUTION**: Demo App: [![]()](https://ai-personal-assistant.xs6r134s1i6.us-east.codeengine.appdomain.cloud/)
   - https://ai-personal-assistant.xs6r134s1i6.us-east.codeengine.appdomain.cloud/
 
-> This respository is a demo engineering intiative to showcase the project, product and production skills to rebuild the examplar demo application, in a follow the guuded project from the base source code.
 
 # Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson
 
 > Local variant of source git and SkillsNetwork (and CognitiveClasses CDE Labs hosting).
+
+> This respository is a demo engineering intiative to showcase the project, product and production skills to rebuild the examplar demo application, in a follow the guuded project from the base source code.
 
 ## Introduction
 
