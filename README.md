@@ -1,9 +1,9 @@
 ![Banner: Skills Network](./assets/img/IBM_SkillsNetwork_Guided.png)
 
-- **SOURCE**: [![]()](https://github.com/arora-r/chatapp-with-voice-and-openai-outline)
+- **<ins>SOURCE</ins>**: 🔗<sub>[![](https://img.shields.io/badge/GitHub:_Rohit_Arora-chatapp--with--voice--and--openai--outline-181717?labelColor=181717&color=333333&logo=github&logoColor=white)](https://github.com/arora-r/chatapp-with-voice-and-openai-outline)</sub>
   - https://github.com/arora-r/chatapp-with-voice-and-openai-outline
-  > This is the shell repository for learners to use in the guided project to make a chatapp using text-to-speech, speech-to-text, and openai
-- **SOLUTION**: Demo App: [![]()](https://ai-personal-assistant.xs6r134s1i6.us-east.codeengine.appdomain.cloud/)
+    > This is the shell repository for learners to use in the guided project to make a chatapp using text-to-speech, speech-to-text, and openai
+- **<ins>SOLUTION</ins>**: 🔗<sub>[![IBM Code Engine](https://img.shields.io/badge/IBM%20Code%20Engine:_Demo_App-AI_Personal_Assistant:_OpenAI_&_WatsonX-1261FE?logo=ibm&logoColor=white)](https://ai-personal-assistant.xs6r134s1i6.us-east.codeengine.appdomain.cloud/)</sub>
   - https://ai-personal-assistant.xs6r134s1i6.us-east.codeengine.appdomain.cloud/
 
 
@@ -108,7 +108,7 @@ For developers, view [getting-started.md](getting-started.md), to get started wi
 
 | &nbsp; | &nbsp;&nbsp;&nbsp;  | &nbsp; | 
 | :---   | :--- | :---   |
-| ![](./assets/img/IDSN-logo_small.png) | &nbsp; |  ![](./assets/img/CognitiveClass-ai_small.png)
+| [![](./assets/img/IDSN-logo_small.png)](https://skills.network/) | &nbsp; |  [![](./assets/img/CognitiveClass-ai_small.png)](https://cognitiveclass.ai/courses)
 
 ### Learning Path
 
