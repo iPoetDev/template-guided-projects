@@ -1,4 +1,4 @@
-![Banner: Skills Network]()
+![Banner: Skills Network](./assets/img/IBM_SkillsNetwork.png)
 
 - **SOURCE**: [![]()](https://github.com/arora-r/chatapp-with-voice-and-openai-outline)
   - https://github.com/arora-r/chatapp-with-voice-and-openai-outline
@@ -22,6 +22,7 @@
 
 1.  To build a deep understanding of voice assistants and the skills to create your own AI-powered assistant that can communicate through voice input and output.
 2.  To develop a strong foundation in web development using Python, Flask, HTML, CSS, and JavaScript, and a finished full stack application!
+3.  To deploy IBM Speech Models and OpenAI Natural Language Processing functionality.
 
 ### Topics
 
@@ -45,34 +46,94 @@
 
 - [Introduction](#introduction)
 - [Objectives](#objectives)
-- [Features](#features)
-- [Design](#design)
-- [Workflows](#workflow)
-- [Hosting](#hosting)
-- [Deployment](#hosting)
-- [Production](#production)
+- [Getting Started](#)
+- [Project](#project)
 - [References](#features)
-- [Contributors](#contributors)
+- [Acknowledgements](#acknowledgements)
 - [ChangeLog](#changelog)
 
-## Features
+## Getting Started
 
-1.
-
-## Design
-
-## Workflow
-
-## Hosting
-
-## Deployment
-
-## Production
+For developers, view [getting-started.md](getting-started.md), to get started with the solution design and deployment flow.
 
 ## Project
 
-### Respository
+### Respository Plan
 
-## Contributors
+```rust
+📂 ./ (root)
+│ 
+├── 📂.github/
+│   ├ ... 
+│   └──
+│ 
+├── 📂assets/
+│   ├──📂js/
+│   │   └── script.js 
+│   └──📂css/
+│       └── style.css
+│ 
+├── 📂models/
+│   ├── 📂stt
+│   │   ├── 📂chuck_var
+│   │   ├── Dockerfile
+│   │   ├── README.md
+│   │   └── prepareModels.sh
+│   │  
+│   └── 📂tts
+│       ├── 📂config
+│       ├── Dockerfile 
+│       ├── README.md
+│       └── prepareModels.sh   
+│ 
+├── 📂temlates/
+│   └── index.html
+│ 
+│   ...
+├── Dockerfile 
+├── getting-started.md
+│   ...
+├── README.md
+├── requirements.txt
+├── runtime.txt
+├── server.py
+└── worker.py  
+
+```
+
+<sup>`...`: other common / repository management files per repository template</sup>.
+
+## Acknowledgements
+
+| &nbsp; | &nbsp;&nbsp;&nbsp;  | &nbsp; | 
+| :---   | :--- | :---   |
+| ![](./assets/img/IDSN-logo_small.png) | &nbsp; |  ![](./assets/img/CognitiveClass-ai_small.png)
+
+### Learning Path
+
+> - 🔗<sub>[![](https://img.shields.io/badge/CognitiveClass.ai:_Learn_Path-integration--of--embeddable--ai-3c8dbc?labelColor=3c8dbc&color=181717&logo=&logoColor=white)](https://cognitiveclass.ai/learn/integration-of-embeddable-ai)</sub>
+> - Powered by: https://skills.network/
+
+### Source Code
+
+> - 🔗<sub>[![](https://img.shields.io/badge/GitHub:_Rohit_Arora-chatapp--with--voice--and--openai--outline-181717?labelColor=181717&color=333333&logo=github&logoColor=white)](https://github.com/arora-r/chatapp-with-voice-and-openai-outline)</sub>
+> - © IBM Corporation. All rights reserved.
+
+### Original Author(s)
+
+> #### Talha Siddiqui
+> #### [Rohit Arora](https://github.com/arora-r)
+
+### Repo Author
+
+> #### Charles J Fowler
+> [![LinkedIn](https://img.shields.io/badge/Author-Charles%20J%20Fowler-0077B5?logo=gmail&logoColor=white)](mailto:ipoetdev-github-no-reply@outlook.com "Contact CJ on GItHub email: ipoetdev-github-no-reply@outlook.com") <sup>|</sup> [![LinkedIn](https://img.shields.io/badge/Charles%20J%20Fowler-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://ie.linkedin.com/in/charlesjfowler "@CharlesJFowler @Linkedin.com") <sup>|</sup> [![LinkedIn](https://img.shields.io/badge/iPoetDev-GitHub-0077B5?logo=GitHub&logoColor=white)](https://github.com/ipoetdev "@iPoetDev @GitHub")
+
+## ChangeLog
+
+| Date<sup>1</sup> | Version | Changed By | Change | Activity | 
+| :--- | :--- | :--- | :--- | :--- | 
+| 2024-07-23  | 0.1 | Charles J Fowler  | Initial version created | Create  | 
+<sup>1</sup>: `YYYY-MM-DD`
 
 ## ChangeLog
