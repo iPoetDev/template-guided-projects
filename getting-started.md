@@ -11,13 +11,13 @@
 
 ## Features
 
-1. [#2](https://github.com/iPoetDev/template-guided-projects/issues/2)
-2. [#3](https://github.com/iPoetDev/template-guided-projects/issues/3)
-3. [#4](https://github.com/iPoetDev/template-guided-projects/issues/4)
-4. [#5](https://github.com/iPoetDev/template-guided-projects/issues/5)
-5. [#6](https://github.com/iPoetDev/template-guided-projects/issues/6)
-6. [#7](https://github.com/iPoetDev/template-guided-projects/issues/7)
-7. [#8](https://github.com/iPoetDev/template-guided-projects/issues/8)
+1. [#2 [Feature] 🚀 : UI | Voice Assistant Interface](https://github.com/iPoetDev/template-guided-projects/issues/2)
+2. [#3 [Feature] 🚀 Server | Backend for Voice Assistant Services](https://github.com/iPoetDev/template-guided-projects/issues/3)
+3. [#4 [Feature] 🚀 : Infra/Host | Containerization: Packaging App and Components](https://github.com/iPoetDev/template-guided-projects/issues/4)
+4. [#5 [Feature] 🚀 : API | Watson Speech-to-Text > Integrate](https://github.com/iPoetDev/template-guided-projects/issues/5)
+5. [#6 [Feature] 🚀 : API | OpenAI API](https://github.com/iPoetDev/template-guided-projects/issues/6)
+6. [#7 [Feature] 🚀 API | Watson Text-to-Speech > Integrate](https://github.com/iPoetDev/template-guided-projects/issues/7)
+7. [#8 [Feature] 🚀 Backend | API | Endpoints: Flask HTTP Routing (Server | Worker)](https://github.com/iPoetDev/template-guided-projects/issues/8)
 
 ## Produce
 
