@@ -1,5 +1,5 @@
 {
-  "name": "ibm-skills-ai-colab-sessions",
+  "name": "template-gudided-projects",
   "@context": "https://w3id.org/codemeta/3.0",
   "author": [
     {
@@ -15,34 +15,41 @@
     }
   ],
   "codemeta:isSourceCodeOf": {
-    "id": "Courseware | Live Technical Sessions "
+    "id": "Demo | Guided Projects "
   },
-  "codeRepository": "https://github.com/iPoetDev/ibm-skills-ai-colab-sessions",
-  "dateCreated": "2024-06-19",
+  "codeRepository": "https://github.com/iPoetDev/template-gudided-projects",
+  "dateCreated": "2024-08-01",
   "description": "IBM Skills Build AI Fundamentals - Colab - Sessions",
   "developmentStatus": "active",
   "isPartOf": "Courseware | Educational Content",
-  "issueTracker": "https://github.com/iPoetDev/ibm-skills-ai-colab-sessions/issues",
+  "issueTracker": "https://github.com/iPoetDev/template-gudided-projects/issues",
   "keywords": [
     "ai",
-    "colab-notebook",
-    "juypter-notebook",
-    "python3"
+    "cognitiveclasss.ai",
+    "skills-network",
+    "demo-guided-projects",
+    "ibm-skills-network",
+    "python3",
+    "flask",
+    "ibm-speech-models",
+    "openai",
+    "openai-api"
   ],
   "license": "https://spdx.org/licenses/GPL-3.0",
   "operatingSystem": [],
   "programmingLanguage": [
-    "Jupyter Notebook",
     "Python 3",
-    "HuggingFace",
-    "TensorFlow",
-    "SciKit-Learn"
+    "Flask",
+    "HTML",
+    "Javascript",
+    "CSS",
+    "IBM Speech Models"
   ],
   "relatedLink": [],
   "runtimePlatform": [],
   "softwareRequirements": [
-    "https://colab.research.google.com/",
+    "https://labs.cognitiveclass.ai/",
     ""
   ],
-  "type": "SoftwareSourceCode"
+  "type": "SoftwareDemoSourceCode"
 }
