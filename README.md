@@ -1,10 +1,12 @@
 ![Banner: Skills Network](./assets/img/IBM_SkillsNetwork_Guided.png)
 
-- **<ins>SOURCE</ins>**: 🔗<sub>[![](https://img.shields.io/badge/GitHub:_Rohit_Arora-chatapp--with--voice--and--openai--outline-181717?labelColor=181717&color=333333&logo=github&logoColor=white)](https://github.com/arora-r/chatapp-with-voice-and-openai-outline)</sub>
+- **<ins>SOURCE</ins>**: 🔗<sub>[![](https://img.shields.io/badge/GitHub:_Rohit_Arora-chatapp--with--voice--and--openai--outline--v2.0-181717?labelColor=181717&color=333333&logo=github&logoColor=white)](https://github.com/arora-r/chatapp-with-voice-and-openai-outline)</sub>
   - https://github.com/arora-r/chatapp-with-voice-and-openai-outline
+  - https://github.com/arora-r/chatapp-with-voice-and-openai
     > This is the shell repository for learners to use in the guided project to make a chatapp using text-to-speech, speech-to-text, and openai
 - **<ins>SOLUTION</ins>**: 🔗<sub>[![IBM Code Engine](https://img.shields.io/badge/IBM%20Code%20Engine:_Demo_App-AI_Personal_Assistant:_OpenAI_&_WatsonX-1261FE?logo=ibm&logoColor=white)](https://ai-personal-assistant.xs6r134s1i6.us-east.codeengine.appdomain.cloud/)</sub>
   - https://ai-personal-assistant.xs6r134s1i6.us-east.codeengine.appdomain.cloud/
+  - 🔗<sub>[![](https://img.shields.io/badge/GitHub:_Rohit_Arora-chatapp--with--voice--and--openai--v1.0-181717?labelColor=181717&color=333333&logo=github&logoColor=white)](https://github.com/arora-r/chatapp-with-voice-and-openai)</sub>
 
 
 # Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson
@@ -61,7 +63,7 @@ For developers, view [getting-started.md](getting-started.md), to get started wi
 
 ### Respository Plan
 
-```rust
+```plaintext
 📂 ./ (root)
 │ 
 ├── 📂.github/
@@ -90,6 +92,7 @@ For developers, view [getting-started.md](getting-started.md), to get started wi
 ├── 📂temlates/
 │   └── index.html
 │ 
+├── .env   
 │   ...
 ├── Dockerfile 
 ├── getting-started.md
@@ -103,6 +106,45 @@ For developers, view [getting-started.md](getting-started.md), to get started wi
 ```
 
 <sup>`...`: other common / repository management files per repository template</sup>.
+
+### Branching Strategy
+
+- Main is the main trunk and is mostly protected.
+  - Main for project files, repo configs, documentation and other non functional artefctas. 
+- Branches used for functionality/code
+  - Component / Fearure branch strategies per longer lived branch: component trunks
+  - 4 components: ui, backend, api, hosts
+  - Useful for simple solutions
+- Reduce the friction by light branching and light PR/merging effort.
+
+```plaintext
+main                                 ui     backend      api    host    deploy
+⊕――――――――――――――――――――――――――――――――――――⊕―――――――――⊕――――――――⊕―――――――⊕――――――⊕ 
+│                                    ／
+├── 🌿 ui  ――――――――――――――――――――――――⊕ ui
+│   ├── feature/ui-feature-1
+│   ├── feature/ui-feature-2
+│   └── ...
+│ 
+├── 🌿 backend  ――――――――――――――――――――――――⊕ backend
+│   ├── feature/backend-feature-1
+│   ├── feature/backend-feature-2
+│   └── ...
+│ 
+├── 🌿 api  ――――――――――――――――――――――――――――――――――⊕ api
+│   ├── feature/host-feature-1
+│   ├── feature/host-feature-2
+│   └── ...
+│ 
+└── 🌿 host  ―――――――――――――――――――――――――――――――――――――――⊕ host
+.   ├── feature/api-feature-1
+.   ├── feature/api-feature-2
+.   └── ...
+.
+├── ...
+└── ...
+
+```
 
 ## Acknowledgements
 
@@ -136,5 +178,3 @@ For developers, view [getting-started.md](getting-started.md), to get started wi
 | :--- | :--- | :--- | :--- | :--- | 
 | 2024-07-23  | 0.1 | Charles J Fowler  | Initial version created | Create  | 
 <sup>1</sup>: `YYYY-MM-DD`
-
-## ChangeLog
