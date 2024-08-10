@@ -172,6 +172,25 @@ main                                 ui     backend      api    host    deploy
 > #### Charles J Fowler
 > [![LinkedIn](https://img.shields.io/badge/Author-Charles%20J%20Fowler-0077B5?logo=gmail&logoColor=white)](mailto:ipoetdev-github-no-reply@outlook.com "Contact CJ on GItHub email: ipoetdev-github-no-reply@outlook.com") <sup>|</sup> [![LinkedIn](https://img.shields.io/badge/Charles%20J%20Fowler-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://ie.linkedin.com/in/charlesjfowler "@CharlesJFowler @Linkedin.com") <sup>|</sup> [![LinkedIn](https://img.shields.io/badge/iPoetDev-GitHub-0077B5?logo=GitHub&logoColor=white)](https://github.com/ipoetdev "@iPoetDev @GitHub")
 
+
+### Collaborators
+
+<!-- readme: collaborators -start -->
+<!-- readme: collaborators -end -->
+
+### Contributors
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
+
+### Bots
+
+
+### Contributors
+
+<!-- readme: bots -start -->
+<!-- readme: bots -end -->
+
 ## ChangeLog
 
 | Date<sup>1</sup> | Version | Changed By | Change | Activity | 
