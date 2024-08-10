@@ -1,0 +1,94 @@
+name: 🚀 Getting Started Guide
+
+description: Follow this guide to set up your repository using a template.
+
+title: "[Getting Started] 🚀: "
+
+labels: ["repo", "guided-projects", "tag:getStartedGuide"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for using our Getting Started Guide! Please follow the steps below to set up your repository.
+
+  - type: textarea
+    id: using-repo-template
+    attributes:
+      label: Using a Repository Template
+      description: Check if the tag is next to the repo name and a green check is in the top right.
+      placeholder: Confirm template setup here.
+    validations:
+      required: true
+
+  - type: textarea
+    id: clone-template-repo
+    attributes:
+      label: Clone the Template Repo
+      description: Confirm that you have cloned the template repository.
+      placeholder: Describe the cloning process here.
+    validations:
+      required: true
+
+  - type: textarea
+    id: create-new-repo
+    attributes:
+      label: Create a New Repository
+      description: Describe the steps to create a new repository from the template.
+      placeholder: List the steps here.
+    validations:
+      required: true
+
+  - type: textarea
+    id: initial-config
+    attributes:
+      label: Initial Config
+      description: Describe the initial configuration settings.
+      placeholder: Provide configuration details here.
+    validations:
+      required: true
+
+  - type: textarea
+    id: issue-picker-config
+    attributes:
+      label: Issue Picker/Config
+      description: Describe how to configure the issue picker and update URLs.
+      placeholder: Provide configuration details here.
+    validations:
+      required: true
+
+  - type: textarea
+    id: preconfigured-issues
+    attributes:
+      label: Preconfigured Issues Templates
+      description: Confirm that issue templates have been inspected and updated.
+      placeholder: Describe the updates here.
+    validations:
+      required: true
+
+  - type: textarea
+    id: settings
+    attributes:
+      label: Settings
+      description: Describe the repository settings and features to select.
+      placeholder: List the settings here.
+    validations:
+      required: true
+
+  - type: textarea
+    id: email-notifications
+    attributes:
+      label: Email Notifications
+      description: Describe how to set up email notifications for team members.
+      placeholder: Provide notification details here.
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Information
+      description: Provide any other relevant information or context.
+      placeholder: Include any additional details here.
+    validations:
+      required: false
