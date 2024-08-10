@@ -176,11 +176,37 @@ main                                 ui     backend      api    host    deploy
 ### Collaborators
 
 <!-- readme: collaborators -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/iPoetDev">
+                    <img src="https://avatars.githubusercontent.com/u/51715025?v=4" width="100;" alt="iPoetDev"/>
+                    <br />
+                    <sub><b>iPoetDev</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: collaborators -end -->
 
 ### Contributors
 
 <!-- readme: contributors -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/iPoetDev">
+                    <img src="https://avatars.githubusercontent.com/u/51715025?v=4" width="100;" alt="iPoetDev"/>
+                    <br />
+                    <sub><b>iPoetDev</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: contributors -end -->
 
 ### Bots
@@ -189,6 +215,10 @@ main                                 ui     backend      api    host    deploy
 ### Contributors
 
 <!-- readme: bots -start -->
+<table>
+	<tbody>
+	<tbody>
+</table>
 <!-- readme: bots -end -->
 
 ## ChangeLog
